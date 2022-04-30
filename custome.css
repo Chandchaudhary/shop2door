@@ -1,0 +1,109 @@
+﻿.center{
+    text-align:center;
+}
+.center-page{
+    width:512px;
+    height:420px;
+    position:absolute;
+    top:-40px;
+    bottom:187px;
+    left:0;
+    right:863px;
+    margin:auto;
+}
+.footer-pos {
+    width:auto;
+    height:auto;
+    position:absolute;
+    top:600px;
+    bottom:0;
+    left:0;
+    right:0;
+    margin:auto;
+}
+
+.proname {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 15px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+.proprice {
+    font-size: 14px;
+    line-height: 17px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.proorgprice {
+    font-size: 13px;
+    line-height: 17px;
+    font-family: sans-serif;
+    font-weight: 400;
+    text-decoration: line-through;
+    color: gray;
+}
+.propricediscount {
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: deeppink;
+}
+.pronameview {
+    font-size: 20px;
+    line-height: 25px;
+    font-family: sans-serif;
+    color: #696e80;
+}
+.proorgpriceview {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+    text-decoration: line-through;
+    color: gray;
+}
+.propricediscountview {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: deeppink;
+}
+.propriceview {
+    font-size: 14px;
+    line-height: 17px;
+    font-family: sans-serif;
+    font-weight: 600;
+    margin-top:10px;
+}
+.divdet1{
+    border-bottom:1px dashed #ff6a00;
+    margin-bottom:20px;
+}
+.amount{
+    font-weight:600;
+
+}
+.mainbutton{
+    border-radius:3px;
+    outline:0;
+    margin-top:10px;
+    min-height:22px;
+    font-weight:500;
+    background-color:#b6ff00;
+    color:#000000;
+}
+#cart{
+    margin-right:6px;
+}
+.removecart {
+    border-radius: 3px;
+    outline: 0;
+    margin-top: 10px;
+    font-size: 13px;
+    min-height: 22px;
+    min-width: 90px;
+    font-weight: 500;
+    background-color: #ff5722;
+    border: 1px solid #ff5722;
+    color:#fff;
+}
